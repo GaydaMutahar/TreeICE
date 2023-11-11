@@ -1,9 +1,9 @@
 '''
 @Author: Zhang Ruihan
 @Date: 2019-10-28 01:01:52
-@LastEditors  : Zhang Ruihan
-@LastEditTime : 2020-01-07 01:33:49
-@Description: file content
+@LastEditors  : Gayda Mutahar
+@LastEditTime : 2021-05-07 
+@Description: To fix some parameters
 '''
 
 import numpy as np
