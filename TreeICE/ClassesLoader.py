@@ -1,9 +1,9 @@
 '''
 @Author: Zhang Ruihan
 @Date: 2019-10-28 01:01:52
-@LastEditors: Zhang Ruihan
-@LastEditTime: 2019-12-06 04:08:37
-@Description: file content
+@LastEditors: Gayda Mutahar
+@LastEditTime: 2021-05-05
+@Description: Add the datasetloader functions for CUB_200_2011 dataset
 '''
 from PIL import Image
 import numpy as np
