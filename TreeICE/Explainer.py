@@ -1,3 +1,10 @@
+'''
+@Author: Gayda Mutahar
+@Date: 2021-06-21
+@LastEditors  : Gayda Mutahar
+@LastEditTime : 2021-10-30
+@Description: Reproduce the explainer script from ICE framework and add related functions to create a decision tree explanation
+'''
 from utils import *
 from ClassesLoader import *
 from ModelWrapper import *
