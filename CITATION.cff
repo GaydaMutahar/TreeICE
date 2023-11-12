@@ -1,1 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+authors:
+- family-names: "Mutahar"
+  given-names: "Gayda"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Zhang"
+  given-names: "Ruihan"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Miller"
+  given-names: "Tim"
+title: "TreeICE: Concept-based Explanations using Non-negative Concept
+Activation Vectors and Decision Tree for CNN Models”. "
+version: 1.0.1
 
+date-released: 2023-11-10
+url: "https://github.com/GaydaMutahar/TreeICE.git"
